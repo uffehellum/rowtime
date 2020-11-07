@@ -1,8 +1,6 @@
-run:
-    web: node server
+web: node server
     # worker: python myworker.py
     # asset-syncer:
     #  command:
     #    - python asset-syncer.py
     #  image: worker
-    

@@ -1,9 +1,5 @@
 
-web: node server/index.js
+web: npm start
 
-# web: node server
-    # worker: python myworker.py
-    # asset-syncer:
-    #  command:
-    #    - python asset-syncer.py
-    #  image: worker
+# web: node app.js
+
